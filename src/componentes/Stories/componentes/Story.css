@@ -1,0 +1,28 @@
+
+.Story {
+    width: 75px;
+    margin: 20px 20px 10px 10px;
+    text-align: center;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.Story:first-child{
+    margin-left:1550px ;
+}
+.imgStory img {
+    width: 100%;
+    height: auto;
+    border-radius: 40px;
+    transition: 0.2s;
+    background: linear-gradient(white, white) padding-box, linear-gradient(to right,#ffab00 , #ff8122, #ffd958, #ff66a0 , #db19c4 , #eb0295 ) border-box;
+    border-radius: 50em;
+	border: 3px solid transparent;
+    
+}
+.nomeStory {
+    white-space: nowrap; 
+    width: 65px;
+    font-size: 10px;
+    overflow: hidden;
+    text-overflow: ellipsis; 
+}

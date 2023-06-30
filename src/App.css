@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&family=Roboto:wght@300&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+.App {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}
+body{
+  overflow-x: hidden;
+  background-color: #FEFEFE;
+}
+.LadoEsquerdo,
+.Centro,
+.LadoDireito {
+  height: 100vh;
+}
+
+.LadoEsquerdo {
+  background: #FFFFFF;
+  border-right: 1px solid #ccc;
+  width: 20vw;
+}
+
+.LadoDireito {
+  width: 15vw;
+  background-color: #FEFEFE;
+}
+
+.Centro {
+  width: 80%;
+  padding-left:200px ;
+  background-color: #FEFEFE;
+  
+}

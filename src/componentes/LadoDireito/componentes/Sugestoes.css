@@ -1,0 +1,28 @@
+.sugestao{
+    height: 30px;
+    width: 400px;
+    display: flex;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    align-items: center;
+    font-size: 13px;
+}
+.sugestao p{
+    width:100px ;
+    cursor: pointer;
+}
+.sugestao img{
+    width: 30px;
+    height: 30px;
+    border-radius:20px ;
+    margin-right: 6px;
+    cursor: pointer;
+}
+.sugestao p:nth-last-child(1){
+    font-size: 12px;
+    margin-left: 142px;
+    color:blue;
+}
+.sugestao p:nth-last-child(1):hover{
+    color: rgb(0, 0, 102);
+}

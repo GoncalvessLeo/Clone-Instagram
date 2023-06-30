@@ -1,0 +1,46 @@
+.Post{
+    background-color: #FEFEFE;
+    width: 468px;
+    min-height: 518px;
+    margin: 20px 0 0 0 ;
+}
+.ConteudoPost{
+    background-color: #CACACA;
+    width: 468px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
+.ConteudoPost img{
+   width: 468px;
+   height: 500px;
+   object-fit: cover;
+}
+.BarraSuperior{
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+.ImagemPerfilAutor{
+    border-radius: 20px;
+    height: 35px;
+    width: 35px;
+    margin: 0 15px 0 5px;
+}
+.MenuBarraSuperior{
+    margin-left: auto;
+    margin-right:10px ;
+    font-size: 25px;
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  margin-bottom: 13px;
+
+   
+    
+}
+.horas{
+    color: gray;
+    font-size: 16px;
+}

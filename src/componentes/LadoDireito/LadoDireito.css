@@ -1,0 +1,62 @@
+.LadoDireito{
+    width: 30%;
+}
+.MeuPerfil img{
+    width: 45px;
+    height: 43px;
+    border-radius:35px ;
+}
+.MeuPerfil{
+    width: 100%;
+    margin: 50px 0 5px 10px;
+     height: 70px;
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+}
+.textPerfil{
+    margin: 10px 70px 10px 15px;
+    width: 100%;
+    display: block;
+    cursor: pointer;
+}
+.MeuPerfil span{
+    color: blue;
+    cursor: pointer;
+    
+}
+.suges{
+    display: flex;
+    width: 430px;
+    font-size: 14px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.suges p{
+    color: gray;
+}
+.suges p, .suges span{ 
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+.suges span{
+    font-size: 12px;
+    padding-left: 135px;
+}
+.suges span:hover{
+    color: gray;
+}
+.parteInferiorD{
+    color: rgb(167, 167, 167);
+    width: 400px;
+    font-size: 12px;
+    margin-left: 10px;
+}
+.parteInferiorD p{
+    margin-bottom: 5px;
+}
+.parteInferiorD p:nth-last-child(1){
+    font-size: 12px;
+    margin-top: 20px;
+
+}

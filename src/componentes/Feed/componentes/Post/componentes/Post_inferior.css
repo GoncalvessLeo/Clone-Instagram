@@ -1,0 +1,71 @@
+.parteInferior{
+    height: 180px;
+    border-bottom: 2px solid rgba(128, 128, 128, 0.596);
+    font-size: 14px;
+}.icons{
+    display: inline-flex;
+}
+.icons .coracao svg{
+    width: 28px;
+    height: 28px;
+}
+.icons svg{
+    margin: 8px 10px 0 5px;
+    width: 25px;
+    height: 25px;
+  
+}
+.icons svg:hover{
+    color: rgb(133, 133, 133);
+    cursor: pointer;
+    
+}
+.icons .save{
+    transform: rotate(90deg);
+    margin:  0  0 20px 300px;
+    
+}
+
+.NomePerfilAutor{
+    font-weight: bold;
+    cursor: pointer;
+}
+.NomePerfilAutor:hover{
+    color: rgb(133, 133, 133);
+
+}
+.textoLegenda{
+    display: flex;
+}
+.CurtidoPor{
+    display:flex;
+    margin-bottom: 8px;
+}
+.CurtidoPor p{
+    margin-right:5px ;
+}
+.CurtidoPor span{
+    margin-right: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.traducao p{
+    font-weight: bolder;
+    cursor: pointer;
+}
+input{
+    margin-top: 25px;
+    border: none;
+}
+input:focus, input:focus, select:focus {
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+    
+} 
+.comentarios{
+    margin-top: 8px;
+}
+.legenda{
+    margin-left:3px ;
+}

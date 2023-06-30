@@ -1,0 +1,29 @@
+.ItemMenu{
+    margin-bottom: 5px ;
+    height: 45px;
+    display: block;
+    padding-top:5px ;
+}
+.ItemMenu:hover{
+    background-color: rgb(245, 245, 245);
+    border-radius: 10px;
+    cursor: pointer;
+}
+.ItemMenu:nth-last-child(1){
+    margin-top: 150px;   
+}
+.ItemMenu:nth-last-child(2){
+    padding: 0;
+
+}
+.ItemMenu:nth-child(1){
+    font-weight: bold;
+}
+.ItemMenu img{
+    width: 30px;
+    height: 30px;
+    border-radius: 17px;
+    top: 50%;
+   transform: translateY(25%);
+
+}
