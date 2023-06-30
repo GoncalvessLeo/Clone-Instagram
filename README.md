@@ -1,17 +1,12 @@
-<h1> Clone Instagram</h1>
-Bem-vindo ao meu projeto de um Clone do Instagram, onde os usuários são personagens que gosto e seus maiores desejos.
+# Clone do Instagram📱
 
-<p align="center" >
-<br />
-  <img src="https://i.pinimg.com/originals/ef/e3/df/efe3df299d8b4afdba9c157c2ee2e844.gif" alt="Mirai Trunks" title="Mirai Trunks" >
-</p>
-O intuito foi ser o mais proximo possivel do instagram visualmente falando, sem as funcionalidades dele, porém, para colocar meus conhecimentos em prática 
-criei um carrosel nos stories .O projeto foi  desenvolvido com React.js atraves de conhecimentos adquiridos no PROA.<br/>
+O intuito desse projeto é ser o mais parecido com a página inicial do Instagram, e para isso, utilizei a linguagem de programação React.js.
 
-##  Como acessar o projeto ?
-<p align="center" >
 
-  <img src="capturaTelaInstagram.png" alt="descrição da imagem-ou-gif" >
-</p>
-Você pode simplesmente acessar esse link https://clone-instagram-cyan.vercel.app/ ou baixar o projeto e executa-lo em sua máquina.<br/>
+Aqui você encontrará alguns dos meus personagens favoritos de diferentes filmes, séries e desenhos animados.
+<img src="https://static.wikia.nocookie.net/lady-bug/images/7/78/Argos_transformation.gif/revision/latest?cb=20221124191607" >
 
+# Página Inicial📱
+![image](https://github.com/GoncalvessLeo/Clone-Instagram/assets/125033731/e0a32229-19e8-4c25-944f-b61086679ca2)
+
+Se quiser dar uma olhadinha a mais no projeto, baixe o código e não se esqueça de implementar o node Modulos.
